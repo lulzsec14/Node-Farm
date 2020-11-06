@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Sourav",
+  "dependencies": {
+    "uuid": "8.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.4"
+  }
+}
